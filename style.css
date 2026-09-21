@@ -5,8 +5,8 @@ header img {
 
 nav ul {
   display: flex;
-  justify-content: center;
-  gap: 4rem;
+  justify-content: space-between;
+  gap: 1rem;
   padding: 0 1rem;
 }
 

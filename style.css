@@ -2,3 +2,44 @@ header img {
   width: 120px;
   height: auto;
 }
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 10rem;
+  padding: 0 1rem;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0 1rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: roboto, sans-serif;
+  line-height: 1.5;
+  font-size: 22px;
+  text-align: center;
+  max-width: 65ch;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+main {
+  text-align: left;
+}
+

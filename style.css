@@ -8,6 +8,11 @@ nav ul {
   justify-content: space-between;
   gap: 1rem;
   padding: 0 1rem;
+  border-bottom: 3px solid red;
+  padding-bottom: 2rem;
+  border-top: 0.1px solid gray;
+  padding-top: 2rem;  
+  
 }
 
 .contact-info {
@@ -15,6 +20,8 @@ nav ul {
   justify-content: center;
   gap: 1rem;
   padding: 0 1rem;
+  border-top: 3px solid red;
+  padding-top: 2rem;
 }
 
 ul {
